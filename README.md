@@ -32,6 +32,10 @@ Alternative paths :
 - Intro to PHP
 - Wordpress theme development
 
+Usefull topics
+
+- Docker
+
 ### 🚠 Summer pastures
 
 - Diving deeper in your technology of interest
@@ -57,8 +61,7 @@ Your contacts at BeCode:
 ## 🛠️ Tools and Resources
 
 - [More info on the tech talks](./Extra-Info/Tech-Talks.md)
-- [Review form after an exercise]() {MAKE_YOUR_OWN_GOOGLE_FORM_BASED_ON https://docs.google.com/forms/d/e/1FAIpQLSe__-VMOR0CbyHfCqmbtNFgRNHCQLc7mswlIEpYUBMv7zxpHw/viewform}
-- [Exercise overview]() {MAKE_YOUR_OWN_DOC_BASED_ON Links to each exercise: https://docs.google.com/spreadsheets/d/1HH8g6zX4KtxucARaJPST6vMTSVfq46KVLs5h5UQaVGQ/edit?usp=sharing}
+
 - [Extra Info](./Extra-Info)
   - How to write a README
   - How to Google things
