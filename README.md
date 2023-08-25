@@ -50,7 +50,7 @@ Read the following documents:
 1. Read the **Pedagogical Contract** in
    - [English](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
    - [French](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md)
-2. If you need a refresher, here is the presentation about the rules {LINK_HERE_YOUR_COPY_OF https://docs.google.com/presentation/d/1OHA_sYC-1Q_ZU7Fp5G2nNvaf8wfLVcIrC3HqFDs9G58/edit#slide=id.g4ec5c78148_0_56 }
+2. If you need a refresher, here is the [presentation about the rules](https://docs.google.com/presentation/d/1dSlGc3K-Z4TC368QHeqxaPgA3K_z99P-/edit?usp=sharing&ouid=108332149586002795282&rtpof=true&sd=true)
 
 Your contacts at BeCode:
 
