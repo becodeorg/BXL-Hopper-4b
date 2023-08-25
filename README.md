@@ -5,14 +5,14 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ## ➡️ What's coming
 
-### 🌱 The field
+### 🌱 The field (1 month / 28/08 - 22/09)
 
 - IDE & terminal: your tools of trade
 - Git and Kanban: working in development teams
 - HTML: usage & semantics
 - CSS: styling, preprocessors (SASS) and frameworks (Bootstrap and Tailwind)
 
-### 🏕️ The hill
+### 🏕️ The hill (2 months / 25/09 - )
 
 - Programming concepts & logic
 - JavaScript (JS): adding interactivity and connecting to external services
@@ -21,9 +21,16 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ### ⛰️ The mountain
 
-- PHP: object orientated programming, best practises and frameworks
-- JS: frameworks
+Proposed path :
+
+- JS: React (frontend)
+- Next.js (full stack)
 - Servers & hosting
+
+Alternative paths :
+
+- Intro to PHP
+- Wordpress theme development
 
 ### 🚠 Summer pastures
 
@@ -35,8 +42,6 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 ## ✨ How to thrive at BeCode?
 
 Read the following documents:
-
-{UPDATE_ACCORDINGLY (remove any versions you don't need) 👇}
 
 1. Read the **Pedagogical Contract** in
    - [English](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
@@ -54,8 +59,6 @@ Your contacts at BeCode:
 - [More info on the tech talks](./Extra-Info/Tech-Talks.md)
 - [Review form after an exercise]() {MAKE_YOUR_OWN_GOOGLE_FORM_BASED_ON https://docs.google.com/forms/d/e/1FAIpQLSe__-VMOR0CbyHfCqmbtNFgRNHCQLc7mswlIEpYUBMv7zxpHw/viewform}
 - [Exercise overview]() {MAKE_YOUR_OWN_DOC_BASED_ON Links to each exercise: https://docs.google.com/spreadsheets/d/1HH8g6zX4KtxucARaJPST6vMTSVfq46KVLs5h5UQaVGQ/edit?usp=sharing}
-- [PhpStorm presentation](https://docs.google.com/presentation/d/1-C1ooQTMdAVjkGlDUyLLWBvbAnd6mm1Qn7XCL9KGc90/edit?usp=sharing)
-  ➡️ For a PhpStorm license ask your coach
 - [Extra Info](./Extra-Info)
   - How to write a README
   - How to Google things
@@ -88,22 +91,18 @@ To keep up to date with the upcoming events, workshops and hackathons remember t
 
 There are 2 vacation blocks of one week:
 
-{UPDATE_ACCORDINGLY 👇}
-
-| Dates                        | What are we doin'? |
-| ---------------------------- | ------------------ |
-| August 3rd -> August 7th     | Planned vacation   |
-| October 19th -> October 23th | Planned vacation   |
+| Dates                    | What are we doin'? |
+| ------------------------ | ------------------ |
+| October 30 -> November 3 | Planned vacation   |
+| January 1 -> January 5   | Planned vacation   |
 
 Additional holidays:
 
-{UPDATE_ACCORDINGLY 👇 (see: https://publicholidays.be/2020-dates/ and ask your HOC) }
-
-| Date      | What          |
-| --------- | ------------- |
-| Tue 21/07 | National Day  |
-| Wed 11/11 | Armistice Day |
-| Fri 25/12 | Christmas Day |
+| Date      | What                    |
+| --------- | ----------------------- |
+| Mon 25/12 | Christmas Day           |
+| Thu 28/12 | Recup of St. Silvester  |
+| Fri 29/12 | Recup of New Year's day |
 
 ## 👩‍🎓 Briefings
 
