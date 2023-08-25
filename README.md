@@ -12,14 +12,14 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 - HTML: usage & semantics
 - CSS: styling, preprocessors (SASS) and frameworks (Bootstrap and Tailwind)
 
-### 🏕️ The hill (2 months / 25/09 - )
+### 🏕️ The hill (2 months / 25/09 - 03/12)
 
 - Programming concepts & logic
 - JavaScript (JS): adding interactivity and connecting to external services
 - API, Databases
 - Node.js - Express
 
-### ⛰️ The mountain
+### ⛰️ The mountain (06/12 / 02/02)
 
 Proposed path :
 
@@ -36,7 +36,7 @@ Usefull topics
 
 - Docker
 
-### 🚠 Summer pastures
+### 🚠 Summer pastures (05/02 - 15/03)
 
 - Diving deeper in your technology of interest
 - Bigger projects
