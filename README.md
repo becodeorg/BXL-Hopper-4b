@@ -1,23 +1,23 @@
-# {STARTUP_NAME - eg. Ghent Verou 3}
+# Brussels - Hopper 5 - 2023/24
 
 This repo is your go-to place for all information on your activities at BeCode: briefings, tutorials, etc.  
 Clone it on your computer and `git pull` regularly in order to fetch the latest updates made by your coaches.
 
 ## ➡️ What's coming
 
-{UPDATE_ACCORDINGLY 👇}
-
 ### 🌱 The field
 
-- HTML: usage & semantics
-- CSS: styling, preprocessors and frameworks
-- Git: working in development teams
 - IDE & terminal: your tools of trade
+- Git and Kanban: working in development teams
+- HTML: usage & semantics
+- CSS: styling, preprocessors (SASS) and frameworks (Bootstrap and Tailwind)
 
 ### 🏕️ The hill
 
 - Programming concepts & logic
 - JavaScript (JS): adding interactivity and connecting to external services
+- API, Databases
+- Node.js - Express
 
 ### ⛰️ The mountain
 
@@ -37,17 +37,17 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 Read the following documents:
 
 {UPDATE_ACCORDINGLY (remove any versions you don't need) 👇}
-1. Read the **Pedagogical Contract** in 
+
+1. Read the **Pedagogical Contract** in
    - [English](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
    - [French](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md)
-   - [Dutch](https://github.com/becodeorg/BeCode/blob/master/pedagogischcontract.md)
 2. If you need a refresher, here is the presentation about the rules {LINK_HERE_YOUR_COPY_OF https://docs.google.com/presentation/d/1OHA_sYC-1Q_ZU7Fp5G2nNvaf8wfLVcIrC3HqFDs9G58/edit#slide=id.g4ec5c78148_0_56 }
 
 Your contacts at BeCode:
 
-1. Your lead coach: {YOUR_NAME} - [{YOUR_EMAIL}]()
-2. Secondary coach: {THEIR_NAME} - [{THEIR_EMAIL}]()
-3. Your professional insertion referent: {THEIR_NAME} - [{THEIR_EMAIL}]()
+1. Your lead coach: Henrique Vieira - [henrique.vieira@becode.org]()
+2. Secondary coach: Yassine Sekri - [yassine.sekri@becode.org]()
+3. Your professional insertion referent: Marina Nozhenko - [marina.nozhenko@becode.org]()
 
 ## 🛠️ Tools and Resources
 
@@ -55,11 +55,11 @@ Your contacts at BeCode:
 - [Review form after an exercise]() {MAKE_YOUR_OWN_GOOGLE_FORM_BASED_ON https://docs.google.com/forms/d/e/1FAIpQLSe__-VMOR0CbyHfCqmbtNFgRNHCQLc7mswlIEpYUBMv7zxpHw/viewform}
 - [Exercise overview]() {MAKE_YOUR_OWN_DOC_BASED_ON Links to each exercise: https://docs.google.com/spreadsheets/d/1HH8g6zX4KtxucARaJPST6vMTSVfq46KVLs5h5UQaVGQ/edit?usp=sharing}
 - [PhpStorm presentation](https://docs.google.com/presentation/d/1-C1ooQTMdAVjkGlDUyLLWBvbAnd6mm1Qn7XCL9KGc90/edit?usp=sharing)
-   ➡️ For a PhpStorm license ask your coach
+  ➡️ For a PhpStorm license ask your coach
 - [Extra Info](./Extra-Info)
-   - How to write a README
-   - How to Google things
-   - What IDE (= editor) to use
+  - How to write a README
+  - How to Google things
+  - What IDE (= editor) to use
 
 ## 🕑 Respect for planning: being late & absence
 
