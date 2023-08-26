@@ -17,7 +17,7 @@ Here are the three main objectives you will achieve during "The Field":
 
 ## 📚 Contents
 
-During "The Field" period, which spans over a month, you will embark on an exciting journey of learning, practice, and collaboration. You'll start by mastering the tools and techniques used by web developers, such as setting up your development environment and working with version control systems like GitHub.
+During "The Field" period, which spans over a month, you will embark on an exciting journey of learning, practice, and collaboration. You'll start by mastering the tools and techniques used by web developers, such as setting up your development environment, using the terminal, writing markdown and working with version control systems like GitHub.
 
 Once you've got the basics covered, you'll dive into HTML and CSS and start building your own webpage from scratch. You'll learn the fundamental concepts of web design, including layout, typography, and color theory, and apply them to create a visually appealing and responsive webpage.
 
