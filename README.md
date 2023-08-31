@@ -24,7 +24,7 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 Proposed path :
 
 - JS: React (frontend)
-- Next.js (full stack)
+- Next.js (full stack with React)
 - Servers & hosting
 
 Alternative paths :
