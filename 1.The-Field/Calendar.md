@@ -33,7 +33,9 @@
 
 Onsite :
 **TUE 12/09** (regular classroom)
+
 **THU 14/09** (regular classroom)
+
 **FRI 15/09** (regular classroom)
 
 #### CSS
@@ -61,7 +63,9 @@ Onsite :
 ### WEEK 4
 
 Onsite :
+
 **WED 20/09** (small class on third floor !)
+
 **FRI 22/09** (small class on third floor !)
 
 - Decision making
@@ -75,7 +79,9 @@ Onsite :
 ### WEEK 5
 
 **TUE 26/09** (regular classroom)
+
 **WED 27/09** (small class on third floor !)
+
 **THU 28/09** (small class on third floor !)
 
 - Loops
