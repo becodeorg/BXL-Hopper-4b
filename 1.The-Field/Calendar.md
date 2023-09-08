@@ -31,7 +31,6 @@
 
 ### Week 3
 
-Onsite :
 **TUE 12/09** (regular classroom)
 
 **THU 14/09** (regular classroom)
@@ -61,8 +60,6 @@ Onsite :
 ---
 
 ### WEEK 4
-
-Onsite :
 
 **WED 20/09** (small class on third floor !)
 
