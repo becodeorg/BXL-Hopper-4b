@@ -51,12 +51,6 @@
 - Mixins
 - Extend
 
-### Javascript
-
-- Variables
-- Boolean
-- Strings
-
 ---
 
 ### WEEK 4
@@ -65,6 +59,11 @@
 
 **FRI 22/09** (small class on third floor !)
 
+### Javascript
+
+- Variables
+- Boolean
+- Strings
 - Decision making
   - Comparison
   - If else
