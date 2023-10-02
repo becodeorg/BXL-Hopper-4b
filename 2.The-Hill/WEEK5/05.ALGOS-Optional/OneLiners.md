@@ -154,10 +154,10 @@ ex :
 
 ```js
 onlyPositives([1, 6, 2, -3, 5, -12]);
-// Result :
+// Result : 14
 
 onlyPositives([-3, -4, -2]);
-// Result :
+// Result : 0
 ```
 
 ---
